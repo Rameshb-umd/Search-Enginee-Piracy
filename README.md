@@ -21,14 +21,11 @@ Currently there is limit of 50+ graph per day for my account in plot.ly
 Save the graph for comparison.
 
 # Software Required
-=========================
 Download and install Anaconda Bundle and install Jupyter Notebook to run the .ipynb file.
 
 # Contributors
-=========================
 Ramesh Balasekaran 
 Jessie Karangu
 
-#Visualization
-===================
+# Visualization
 ![Sample Visualization](http://rameshbalasekaran.com/Files/Box_office.jpg "Visualization")
