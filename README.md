@@ -1,5 +1,7 @@
 # Is Google and Bing doing enough to curb piracy as they claim?
 
+![Sample Visualization](http://rameshbalasekaran.com/Files/Box_office.jpg "Visualization")
+
 Motion picture piracy is a problem that has plagued the movie industry for years. A common form of technology is taking on a new role in helping the issue to persist right underneath movie studios’ noses. In this project we aim to understand how Google and Bing perform while curbing piracy related suggestion in their search enginee algorith,
 
 We will focus on the top 10 most pirated movies data collected by TorrentFreak. The website contains an RSS feed with data that we can use on python to help further our experiment. To help this story become even more newsworthy, we aim to link data showing how much movies are pirated with data that shows how much revenue is lost by creators due to piracy. In each respective search, we want to see which search terms relate to illegal piracy and which search terms relate to reviews. 
@@ -23,9 +25,10 @@ Save the graph for comparison.
 # Software Required
 Download and install Anaconda Bundle and install Jupyter Notebook to run the .ipynb file.
 
-# Contributors
-Ramesh Balasekaran && 
-Jessie Karangu
+License
+-----------
+Copyright [2016] [Ramesh Balasekaran && Jessie Karangu]
 
-# Visualization
-![Sample Visualization](http://rameshbalasekaran.com/Files/Box_office.jpg "Visualization")
+Licensed under the Apache License, Version 2.0 (the "License");
+you may not use this file except in compliance with the License.
+You may obtain a copy of the License at http://www.apache.org/licenses/LICENSE-2.0
