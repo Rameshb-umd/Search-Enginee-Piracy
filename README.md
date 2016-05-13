@@ -1,4 +1,4 @@
-# Is Google and Bing doing enough to curb piracy as they claim?
+# Are search engines doing enough to curb piracy as they claim?
 
 ![Sample Visualization](http://rameshbalasekaran.com/Files/Box_office.jpg "Visualization")
 
@@ -27,7 +27,7 @@ Save the graph for comparison.
 # Software Required
 Download and install Anaconda Bundle and install Jupyter Notebook to run the .ipynb file.
 
-License
+# License
 -----------
 Copyright [2016] [Ramesh Balasekaran && Jessie Karangu]
 
