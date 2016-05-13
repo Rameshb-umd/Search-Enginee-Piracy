@@ -24,7 +24,7 @@ Save the graph for comparison.
 Download and install Anaconda Bundle and install Jupyter Notebook to run the .ipynb file.
 
 # Contributors
-Ramesh Balasekaran 
+Ramesh Balasekaran && 
 Jessie Karangu
 
 # Visualization
