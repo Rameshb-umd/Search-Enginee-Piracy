@@ -1,4 +1,4 @@
-# Search Engine's AutoSuggestions impact of Movie Piracy
+# Is Google and Bing doing enough to curb piracy as they claim?
 
 Motion picture piracy is a problem that has plagued the movie industry for years. A common form of technology is taking on a new role in helping the issue to persist right underneath movie studios’ noses. In this project we aim to understand how Google and Bing perform while curbing piracy related suggestion in their search enginee algorith,
 
